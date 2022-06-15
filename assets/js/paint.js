@@ -43,28 +43,52 @@ function getProductInfo(paintColor) {
             updatePrice(colorName, price)
             break;           
         case 'pn2':
-            // set variables for price and color name and invoke a function to update the price    
+            // set variables for price and color name and invoke a function to update the price   
+            price = '$14.99' 
+            colorName = 'Lime Green'
+            updatePrice(colorName, price) 
             break;            
         case 'pn3':
             // set variables for price and color name and invoke a function to update the price  
+            price = '$14.99' 
+            colorName = 'Lime Green'
+            updatePrice(colorName, price)
             break;   
         case 'pn4':
             // set variables for price and color name and invoke a function to update the price  
+            price = '$14.99' 
+            colorName = 'Lime Green'
+            updatePrice(colorName, price)
             break;   
         case 'pn5':
             // set variables for price and color name and invoke a function to update the price       
+            price = '$14.99' 
+            colorName = 'Lime Green'
+            updatePrice(colorName, price)
             break;   
         case 'pn6':
             // set variables for price and color name and invoke a function to update the price        
+            price = '$14.99' 
+            colorName = 'Lime Green'
+            updatePrice(colorName, price)
             break;   
         case 'pn7':
             // set variables for price and color name and invoke a function to update the price 
+            price = '$14.99' 
+            colorName = 'Lime Green'
+            updatePrice(colorName, price)
             break;   
         case 'pn8':
             // set variables for price and color name and invoke a function to update the price   
+            price = '$14.99' 
+            colorName = 'Lime Green'
+            updatePrice(colorName, price)
             break;   
         case 'pn9':
             // set variables for price and color name and invoke a function to update the price 
+            price = '$14.99' 
+            colorName = 'Lime Green'
+            updatePrice(colorName, price)
             break;   
           default:              
     }
